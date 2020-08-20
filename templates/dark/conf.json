@@ -1,11 +1,38 @@
-{
-  "id": "dark",
-  "signature": "Best regards,",
-  "name": "The dark mail team",
-  "contactMain": "Call <a href='tel:004580100100'><span>(45) 80100100</span></a> or email us at",
-  "contactMail": "info@dark.dk",
-  "slogan": "LED Pylon. LED Wall. Digital Signage.",
-  "logoUrl": "/assets/dark.png",
+[{
+  "id": "camila",
+  "signature": "Atensionamente,",
+  "name": "Camila Niedziejko",
+  "contactMain": "<a href='tel:+5543998375511'><span>(43) 99837-5511 | 3305.5300</span></a> |",
+  "contactMail": "camila@lb2.com.br",
+  "linkedin": "https://www.linkedin.com/in/camila-niedziejko-259228107/",
+  "slogan": "Genrente de Marketing",
+  "logoUrl": "https://lb2-assinaturas.s3.amazonaws.com/logo-teste-3.png",
   "logoAlt": "dark logo",
-  "website": "http://dark.dk"
+  "website": "https://lb2.com.br/"
+},
+
+{
+  "id": "gabriel",
+  "signature": "Atensionamente,",
+  "name": "Gabriel Duduch",
+  "contactMain": "<a href='tel:+5543998375511'><span>(43) 99837-5511 | 3305.5300</span></a> |",
+  "contactMail": "gabriel@lb2.com.br",
+  "linkedin": "https://www.linkedin.com/in/gabrielduduch/",
+  "slogan": "UX/UI designer",
+  "logoUrl": "https://lb2-assinaturas.s3.amazonaws.com/logo-teste-3.png",
+  "logoAlt": "dark logo",
+  "website": "https://lb2.com.br/"
+},{
+  "id": "diogo",
+  "signature": "Atensionamente,",
+  "name": "Diogo Cardoso Fernandes",
+  "contactMain": "<a href='tel:+5543998375511'><span>(43) 99837-5511 | 3305.5300</span></a> |",
+  "contactMail": "diogo.fernandes@lb2.com.br",
+  "linkedin": "https://www.linkedin.com/in/fdiogoc",
+  "slogan": "Analista de Desenvolvimento",
+  "logoUrl": "https://lb2-assinaturas.s3.amazonaws.com/logo-teste-3.png",
+  "logoAlt": "dark logo",
+  "website": "https://lb2.com.br/"
 }
+
+]

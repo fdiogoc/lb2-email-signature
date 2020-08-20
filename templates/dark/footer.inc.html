@@ -3,7 +3,7 @@
     <tr>
       <td class="footer__main__signature" align="left">
         <!-- @echo signature --><br />
-        <strong><!-- @echo name --></strong><br />
+        <strong class="footer__main__name"><!-- @echo name --></strong><br />
       </td>
     </tr>
 
@@ -12,19 +12,23 @@
     </tr>
 
     <tr>
-      <table class="rbcc footer__main__col2" align="right">
-        <td class="footer__main__col2__td" align="right">
-          <a href="<!-- @echo website -->">
-            <img src="<!-- @echo logoUrl -->" alt="<!-- @echo logoAlt -->" class="footer__main__col2__td__img" />
-          </a>
-        </td>
-      </table>
+
 
       <table class="rbcc footer__main__col1" align="left">
         <td class="footer__main__col1__td" align="left">
           <span><!-- @echo slogan --></span><br />
           <!-- @echo contactMain -->
-          <a href="mailto:<!-- @echo contactMail -->" target="_blank"><!-- @echo contactMail --></a>
+          <a href="mailto:<!-- @echo contactMail -->" target="_blank"><!-- @echo contactMail --></a><br />
+          <a href="<!-- @echo linkedin -->" target="_blank"><!-- @echo linkedin --></a>
+        </td>
+      </table>
+    </tr>
+    <tr>
+      <table class="rbcc footer__main__col12" align="left">
+        <td class="footer__main__col12__td" align="left">
+          <a href="<!-- @echo website -->">
+            <img src="<!-- @echo logoUrl -->" alt="<!-- @echo logoAlt -->" class="footer__main__col12__td__img" />
+          </a>
         </td>
       </table>
     </tr>
